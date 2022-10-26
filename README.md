@@ -22,6 +22,9 @@ I'm an engineering student, programmer and tech enthusiast!
 
 ### My stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jakb2403&theme=dark)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakb2403)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jakb2403&theme=dark)](https://git.io/streak-stats)
+
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakb2403&count_private=true)
+ -->

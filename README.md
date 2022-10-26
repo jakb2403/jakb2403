@@ -1,0 +1,4 @@
+- 👋 Hi, I’m John Brown (@jakb2403) 
+- 👀 I’m interested in Machine Learning and Computer Vision
+- 🌱 I’m currently learning full stack web development for a project I'm doing where I try to implement some classical and advanced computer vision concepts from my fourth year lecture course at the Cambridge Engineering department.
+- 📫 How to reach me: by email at jakb.2403+github@gmail.com

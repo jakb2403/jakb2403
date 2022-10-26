@@ -7,10 +7,9 @@ I'm an engineering student, programmer and tech enthusiast!
 - 🎓 I'm currently a Masters student studying Information Engineering at the University of Cambridge
 - 👀 I’m interested in Machine Learning and Computer Vision (and just software engineering in general!)
 - 🌱 I’m currently learning full stack web development for a project where I try to implement some classical and advanced computer vision concepts from my fourth year lecture course (4F12 - Computer Vision) at university
-
-### Connect with me
-- ✉️ Email: jakb.2403+github@gmail.com
-- 🔗 Linkedin: https://www.linkedin.com/in/johnakbrown/
+- Contact me via:
+  - ✉️ Email: jakb.2403+github@gmail.com
+  - 🔗 Linkedin: https://www.linkedin.com/in/johnakbrown/
 
 ### Languages and tools
 <p>
